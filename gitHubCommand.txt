@@ -12,7 +12,7 @@ make file and push to github:
 - git push origin master
 -----------------------------------------------------------------
 get the apdates that are in github:
-git pull origin taky
+- git pull taky master
 commands:
 - repo
 - branch

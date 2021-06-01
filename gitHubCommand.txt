@@ -10,6 +10,9 @@ make file and push to github:
 - git remote
 - git remote -v
 - git push origin master
+-----------------------------------------------------------------
+get the apdates that are in github:
+- git pull taky master
 commands:
 - repo
 - branch
@@ -24,3 +27,4 @@ commands:
 - remote
 - add (commit new files)
 - VIM= : q (get out)
+changes that happen::::::

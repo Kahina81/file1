@@ -1,0 +1,18 @@
+make file and push to github: 
+- pwd
+- git status
+- git init (turn folder to repository)
+commands:
+- repo
+- branch
+- merge
+- fork
+- pull request
+= clone
+- push
+- init
+- status
+- dog
+- remote
+- add (commit new files)
+- VIM= : q (get out)

@@ -2,6 +2,10 @@ make file and push to github:
 - pwd
 - git status
 - git init (turn folder to repository)
+
+-----------------------------------------------------------------
+get the apdates that are in github:
+git pull origin taky
 commands:
 - repo
 - branch

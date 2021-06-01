@@ -27,3 +27,4 @@ commands:
 - remote
 - add (commit new files)
 - VIM= : q (get out)
+changes that happen::::::

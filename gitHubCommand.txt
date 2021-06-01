@@ -2,7 +2,14 @@ make file and push to github:
 - pwd
 - git status
 - git init (turn folder to repository)
-
+- git add gitHubCommand.txt (add one file)
+- git commit -m "html code"
+- git add . (add all the files in repository)
+- git commit -m "add all file"
+- git remote add origin https://github.com/Kahina81/file1.git
+- git remote
+- git remote -v
+- git push origin master
 -----------------------------------------------------------------
 get the apdates that are in github:
 git pull origin taky
